@@ -8,4 +8,6 @@ SQL Server Management Studio: https://docs.microsoft.com/en-us/sql/ssms/download
 SQL Server: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 
+Link for downloading Power BI Desktop:
 
+https://powerbi.microsoft.com/en-us/downloads/
